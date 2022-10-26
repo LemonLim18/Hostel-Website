@@ -1,0 +1,3 @@
+    .big-banner{
+	background-image: url("https://cf.bstatic.com/images/hotel/max1024x768/974/97419633.jpg");
+	}
